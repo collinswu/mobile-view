@@ -413,6 +413,9 @@ button[type=submit]:hover {
 	font-size: 1em;
 	font-weight: 700;
 	padding: 0.5em 1em;
+	position: relative;
+	left: -5000px;
+
 }
 
 #banner h2.skip a:hover {
